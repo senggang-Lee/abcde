@@ -1,0 +1,61 @@
+#p1text{
+    position: relative;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: -50%;
+    z-index: 100000;
+    color: white;
+}
+#contaner{
+    overflow: auto;
+     width: 100vw;
+     
+ }
+ #img{
+     display: flex;
+     z-index: 3;
+     width: 400vw;
+
+ }
+ #img1{
+     width: 100vw;
+ }
+ #img2{
+     width: 100vw;
+ }
+ #img3{
+     width: 100vw;
+ }
+ #img4{
+     width: 100vw;
+ }
+ #WhoAmI{
+
+ }
+ #learn{
+
+ }
+ #now{
+
+ }
+ #Myporpose{
+
+ }
+ 
+#headertitle{
+    font-size: 50px;
+
+}
+#button{
+    margin-left: 40%;
+}
+#button1{
+    
+}
+#button2{
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#button3{
+   
+}
